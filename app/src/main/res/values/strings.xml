@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paquetes GT</string>
+    <string name="register_package">Registrar paquetes</string>
+    <string name="code_package">Código</string>
+    <string name="description_package">Descripción</string>
+    <string name="take_picture">Tomar foto del paquete</string>
+    <string name="save">Guardar</string>
+</resources>
